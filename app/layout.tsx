@@ -7,7 +7,7 @@ import { type Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Yun Xiao Ai",
-  description: "有问题就会有答复",
+  description: "个人学习工具",
   viewport: {
     width: "device-width",
     initialScale: 1,
