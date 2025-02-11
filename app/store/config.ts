@@ -49,7 +49,7 @@ export const DEFAULT_CONFIG = {
     model: "deepseek-r1" as ModelType,
     temperature: 0.5,
     top_p: 1,
-    max_tokens: 2000,
+    max_tokens: 10000,
     presence_penalty: 0,
     frequency_penalty: 0,
     sendMemory: true,
